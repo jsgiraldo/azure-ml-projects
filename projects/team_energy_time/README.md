@@ -1,5 +1,5 @@
 # Enefit - Predict Energy Behavior of Prosumers
-(presentation/energy.png)
+![Prosumidores](presentation/energy.png)
 ## Descripción
 Este proyecto tiene como objetivo predecir el comportamiento energético de los prosumidores para reducir los costos de desequilibrio energético utilizando técnicas de series temporales y AutoML en Azure Machine Learning.
 
