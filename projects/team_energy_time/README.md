@@ -9,7 +9,8 @@ La competencia aborda el problema del desequilibrio energético, donde la energ�
     Jordan Stiven Giraldo
 
 ## Estructura del Proyecto
-team_energy_time/
+
+team_energy_times/
 |── README.md
 |── .gitignore
 ├── data/
@@ -41,6 +42,7 @@ team_energy_time/
 │   └── final_presentation.pptx   
 └── demo/
    └── demo_video.md              
+
 
 
 ## Configuración
