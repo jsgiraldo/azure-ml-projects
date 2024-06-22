@@ -10,7 +10,7 @@ La competencia aborda el problema del desequilibrio energético, donde la energ�
 
 **Estructura del Proyecto**
 
-    ```
+```
 team_energy_times/
 |── README.md
 |── .gitignore
@@ -43,9 +43,9 @@ team_energy_times/
 │   └── final_presentation.pptx   
 └── demo/
    └── demo_video.md              
-    ```
+```
 **Arquitectura**
-![Prosumidores](presentation/energy.png)
+![Prosumidores](presentation/forecast-energy-power-demand.png)
 Los componentes principales de la implementación de está arquitectura con Azure Machine Learning.
 ## Configuración
 1. Clonar el repositorio.
