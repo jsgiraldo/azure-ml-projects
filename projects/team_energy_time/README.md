@@ -45,7 +45,7 @@ team_energy_times/
    └── demo_video.md              
 ```
 **Arquitectura**
-![Prosumidores](presentation/forecast-energy-power-demand.png)
+![Arquitectura](presentation/forecast-energy-power-demand.png)
 Los componentes principales de la implementación de está arquitectura con Azure Machine Learning.
 ## Configuración
 1. Clonar el repositorio.
