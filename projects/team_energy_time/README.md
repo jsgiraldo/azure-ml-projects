@@ -8,8 +8,9 @@ La competencia aborda el problema del desequilibrio energético, donde la energ�
 ## Participantes
     Jordan Stiven Giraldo
 
-## Estructura del Proyecto
+**Estructura del Proyecto**
 
+    ```
 team_energy_times/
 |── README.md
 |── .gitignore
@@ -42,9 +43,10 @@ team_energy_times/
 │   └── final_presentation.pptx   
 └── demo/
    └── demo_video.md              
-
-
-
+    ```
+**Arquitectura**
+![Prosumidores](presentation/energy.png)
+Los componentes principales de la implementación de está arquitectura con Azure Machine Learning.
 ## Configuración
 1. Clonar el repositorio.
 2. Configurar el entorno de conda: `conda env create -f mlflow/conda.yaml`
